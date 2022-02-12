@@ -1,5 +1,16 @@
 # Gherkin
 
+QMK OLED, Gherkin - help wanted :)
+Hey everyone, after a long time of building keyboards I decided to try to build something from the PCB up, just like adult lego I really enjoyed it and have ordered a load of odd PCB's and stuff so I seem to have taken to this.
+
+Something I was wondering was how some keyboards have OLED displaying a startup pattern and then display the text as it is typed (through a keylogger?)
+
+I have tried for a few days to get my head around what you need to do to make this work.
+
+I am trying to include a 128by32 I2C OLED 5v same as my pro micro
+
+I have wired it up to the D1, D0, VCC and GND. I did include 4.7k resistors that I saw on one wiring guide but I have since removed them after seeing that some other builds don't seem to use them.
+
 ![Gherkin](https://4.bp.blogspot.com/-sQ18-lNZXOc/WCzlTde-4PI/AAAAAAAB_JQ/qQrehAMG6DMKf3i4oj4mkmLGOfTUvb3KgCLcB/s640/IMG_20161116_122926.jpg)
 ===
 
